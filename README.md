@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+# Setup
+
+Run the following commands from your terminal:
+
+1) `git clone https://github.com/z-party/z-party-frontend.git` to clone this repository 
+
+2) `flutter pub get` in the project root directory to install all the required dependencies.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
